@@ -1,0 +1,5 @@
+// const express =require('express')
+// const router =new express.Router()
+// const usercontrol =require('../controller/usercontroller')
+// router.post('/register',usercontrol.register) 
+// router.post('/login',usercontrol.login) 
